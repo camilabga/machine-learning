@@ -6,4 +6,5 @@ Content for Udacity's Machine Learning curriculum, which includes projects and t
 Finished projects:
 <ol>
   <li>Titanic Survival Operation</li>
+  <li>Boston House Pricing</li>
 </ol>
