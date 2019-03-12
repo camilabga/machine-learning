@@ -7,4 +7,6 @@ Finished projects:
 <ol>
   <li>Titanic Survival Operation (titanic_survival_operation)</li>
   <li>Boston House Pricing (boston_housing)</li>
+  <li>Titanic Survival Operation with Decision Trees (titanic_survival_operation_decisonTrees)</li>
+  <li>Spam Detection (spam_detection_bayes)</li>
 </ol>
