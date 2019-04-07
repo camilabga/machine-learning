@@ -9,4 +9,5 @@ Finished projects:
   <li>Boston House Pricing (boston_housing)</li>
   <li>Titanic Survival Operation with Decision Trees (titanic_survival_operation_decisonTrees)</li>
   <li>Spam Detection (spam_detection_bayes)</li>
+  <li>Finding Donors for CharityML (finding_donors)</li>
 </ol>
