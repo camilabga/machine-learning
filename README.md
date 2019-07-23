@@ -12,5 +12,7 @@ Finished projects:
   <li>Finding Donors for CharityML (finding_donors)</li>
   <li>K-Means Movie Recommendations (movie_ratings)</li>
   <li>DBSCAN Lab (dbscan-lab) </li>
+  <li> </li>
+  <li> </li>
   <li>Determining Customer Segments (customer_segments)</li>
 </ol>
