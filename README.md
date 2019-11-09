@@ -16,7 +16,7 @@ Finished projects:
   <li>ICA Lab (ICA-lab) </li>
   <li>Determining Customer Segments (customer_segments)</li>
   
-  <li> </li>
+  <li> </li> 
   <li> </li>
   <li> </li>
 </ol>
